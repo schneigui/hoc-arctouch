@@ -1,0 +1,40 @@
+body {
+    width: 800px;
+    margin: 0 auto;
+    font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+    font-weight: 300;
+    font-size: 38px;
+    margin: 0;
+    border-top: 5px solid #e17055;
+    padding-top: 15px;
+}
+
+h2 {
+    margin: 5px 0;
+    font-weight: 700;
+}
+
+p {
+    line-height: 150%;
+}
+
+ img {
+     float: right;
+     margin: 10px;
+     width: 40%;
+     height: auto;
+ }
+
+ a {
+     color: #6c5ce7;
+     display: block;
+     text-align: right;
+ }
+
+ a:hover {
+    color: #a29bfe;
+}
+
